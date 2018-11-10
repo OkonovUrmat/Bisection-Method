@@ -1,0 +1,11 @@
+D:\Программы лб\4 курс\Основы разработки и анализа требований\Лабараторные\Bisection_Method\Backup\Okonov_Urmat_Bisection\Okonov_Urmat_Bisection\bin\Debug\Okonov_Urmat_Bisection.exe.config
+D:\Программы лб\4 курс\Основы разработки и анализа требований\Лабараторные\Bisection_Method\Backup\Okonov_Urmat_Bisection\Okonov_Urmat_Bisection\obj\Debug\Okonov_Urmat_Bisection.csprojResolveAssemblyReference.cache
+D:\Программы лб\4 курс\Основы разработки и анализа требований\Лабараторные\Bisection_Method\Backup\Okonov_Urmat_Bisection\Okonov_Urmat_Bisection\obj\Debug\Okonov_Urmat_Bisection.Properties.Resources.resources
+D:\Программы лб\4 курс\Основы разработки и анализа требований\Лабараторные\Bisection_Method\Backup\Okonov_Urmat_Bisection\Okonov_Urmat_Bisection\obj\Debug\Okonov_Urmat_Bisection.csproj.GenerateResource.Cache
+D:\Программы лб\4 курс\Основы разработки и анализа требований\Лабараторные\Bisection_Method\Backup\Okonov_Urmat_Bisection\Okonov_Urmat_Bisection\bin\Debug\Okonov_Urmat_Bisection.exe
+D:\Программы лб\4 курс\Основы разработки и анализа требований\Лабараторные\Bisection_Method\Backup\Okonov_Urmat_Bisection\Okonov_Urmat_Bisection\bin\Debug\Okonov_Urmat_Bisection.pdb
+D:\Программы лб\4 курс\Основы разработки и анализа требований\Лабараторные\Bisection_Method\Backup\Okonov_Urmat_Bisection\Okonov_Urmat_Bisection\bin\Debug\Extreme.Numerics.Net40.dll
+D:\Программы лб\4 курс\Основы разработки и анализа требований\Лабараторные\Bisection_Method\Backup\Okonov_Urmat_Bisection\Okonov_Urmat_Bisection\bin\Debug\info.lundin.math.dll
+D:\Программы лб\4 курс\Основы разработки и анализа требований\Лабараторные\Bisection_Method\Backup\Okonov_Urmat_Bisection\Okonov_Urmat_Bisection\obj\Debug\Okonov_Urmat_Bisection.Bisection_Method.resources
+D:\Программы лб\4 курс\Основы разработки и анализа требований\Лабараторные\Bisection_Method\Backup\Okonov_Urmat_Bisection\Okonov_Urmat_Bisection\obj\Debug\Okonov_Urmat_Bisection.exe
+D:\Программы лб\4 курс\Основы разработки и анализа требований\Лабараторные\Bisection_Method\Backup\Okonov_Urmat_Bisection\Okonov_Urmat_Bisection\obj\Debug\Okonov_Urmat_Bisection.pdb

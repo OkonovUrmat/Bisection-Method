@@ -39,7 +39,7 @@ namespace Okonov_Urmat_Bisection
             funcBox.Text = c.Function_Verify(funcBox.Text);
             if (funcBox.Text!="")
             {
-                if (funcBox.Text == "" || LeftEndPointBox.Text == "" || RightEndPointBox.Text == "" || ToleranceBox.Text == "" || timeBox.Text == "" || K_maxBox.Text == "")
+                if (LeftEndPointBox.Text == "" || RightEndPointBox.Text == "" || ToleranceBox.Text == "" || timeBox.Text == "" || K_maxBox.Text == "")
                 {
                     MessageBox.Show("Input textboxes are empty! Enter the data");
                     label11.Text = "Input textboxes are empty! Enter the data";
